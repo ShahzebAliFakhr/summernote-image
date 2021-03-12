@@ -1,0 +1,18 @@
+/* THEME DEFAULT */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', 'Trebuchet MS';
+}
+
+a {
+    color: #000;
+}
+
+.section-padding {
+	padding: 50px 0;
+}
